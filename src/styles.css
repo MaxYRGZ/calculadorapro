@@ -1,0 +1,14 @@
+
+  h1{
+    color: rgb(166, 18, 18)
+  }
+  input {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-right: 10px;
+    background-color: rgb(166, 18, 18);
+    color: white;
+  }
+  
